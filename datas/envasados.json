@@ -1,0 +1,5 @@
+[
+    {"objeto":"Atum","cantidad":"unidad 1","precio": 400, "id": 18},
+    {"objeto":"Arvejas","cantidad":"unidad 1","precio": 155, "id": 19},
+    {"objeto":"Maiz","cantidad":"unidad 1","precio": 120, "id": 20}
+    ]

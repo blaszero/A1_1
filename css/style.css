@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+
+  position: relative;
+  padding-bottom: 3em;
+  min-height: 100vh;
+}
+
+main{
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.footer { 
+    position: absolute;
+    bottom: 0;
+  }
+
+.imgmio{
+  height: 60px;
+  width: 60px;
+  border-radius: 5px ;
+  transition: all ease ;
+}
+
+.imgmio:hover{
+  transition: all 2s ease;
+  transform: scale(1);
+  height: 60px;
+  width: 70px;
+  border-radius: 5px white;
+
+}
+
+.enlace{
+  text-decoration: none;
+}

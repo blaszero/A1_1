@@ -1,0 +1,5 @@
+[
+    {"objeto":"Queso","cantidad":"unidad 1","precio": 200, "id": 12},
+    {"objeto":"Jamon","cantidad":"unidad 1","precio": 305, "id": 13},
+    {"objeto":"Jamon crudo","cantidad":"unidad 1","precio": 200, "id": 14}
+    ]

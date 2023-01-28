@@ -1,0 +1,5 @@
+[
+    {"objeto":"Toalla","cantidad":"unidad 1","precio": 250, "id": 21},
+    {"objeto":"Portaretrato","cantidad":"unidad 1","precio": 200, "id": 22},
+    {"objeto":"Plato","cantidad":"unidad 1","precio": 150, "id": 23} 
+    ]

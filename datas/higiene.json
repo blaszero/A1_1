@@ -1,0 +1,8 @@
+[
+    {"objeto":"Lavandina","cantidad":"unidad 1","precio": 250, "id": 6},
+    {"objeto":"Detergente","cantidad":"unidad 2","precio": 360, "id": 7},
+    {"objeto":"Trapo de piso","cantidad":"unidad 1","precio": 170, "id": 8},
+    {"objeto":"Shampoo","cantidad":"unidad 1","precio": 400, "id": 9},
+    {"objeto":"Jabon de tocador","cantidad":"unidad 3","precio": 325, "id": 10},
+    {"objeto":"Esponja","cantidad":"unidad 2","precio": 200, "id": 11}
+    ]

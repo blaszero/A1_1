@@ -1,0 +1,6 @@
+[
+    {"objeto":"Queso","cantidad":"unidad 1","precio": 200, "id": 12},
+    {"objeto":"Leche","cantidad":"unidad 1","precio": 200, "id": 15},
+    {"objeto":"Manteca","cantidad":"unidad 1","precio": 140, "id": 16},
+    {"objeto":"Yogur","cantidad":"unidad 1","precio": 85, "id": 17}
+    ]
