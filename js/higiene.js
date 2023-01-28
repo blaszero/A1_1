@@ -36,7 +36,7 @@ const traerProductos = async()=>{
         //CREO EL CONTENIDO DE LA CAJA CON INNER
         caja.innerHTML=`
         <div ">
-        <img src="../../img/productos/${objetos.objeto}.jpg" class="card-img-top  img-responsive" alt="${objetos.objeto}">
+        <img src="../img/productos/${objetos.objeto}.jpg" class="card-img-top  img-responsive" alt="${objetos.objeto}">
         <div class="card-body">
         <h5 class="card-title">${objetos.objeto}</h5>
         <p class="card-text">${objetos.cantidad}</p>
